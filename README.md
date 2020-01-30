@@ -1,4 +1,4 @@
-# CppBuildBoilerplate
+# C++ Build Boilerplate
 This assumes the following is available:
 - Conan 1.21.1 or greater (can install via pip3)
 - CMake 3.10.2 or greater
