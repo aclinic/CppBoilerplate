@@ -5,8 +5,10 @@ This assumes the following is available:
 - Clang 6.0.0 or greater
 
 Run the following commands:
-`mkdir build && cd build`
-`conan install ..`
-`cmake ..`
-`cmake --build .`
+```
+mkdir build && cd build
+conan install ..
+cmake ..
+cmake --build .
+```
 The built binary shall be in `bin`.
